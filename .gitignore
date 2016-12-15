@@ -11,6 +11,11 @@
 # including Drupal core.
 # core
 
+sites/default/files/php
+sites/default/files/css
+sites/default/files/js
+
+
 # Core's dependencies are managed with Composer.
 #vendor
 
