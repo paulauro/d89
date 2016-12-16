@@ -1,0 +1,9 @@
+uuid: d0328591-bbd7-4cd7-acaa-d7e05058769b
+langcode: en
+status: true
+dependencies: {  }
+name: 'My new vocab'
+vid: my_new_vocab
+description: ''
+hierarchy: 0
+weight: 0

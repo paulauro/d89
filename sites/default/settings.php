@@ -766,4 +766,6 @@ $settings['install_profile'] = 'standard';
 //$config_directories['sync'] = 'sites/default/files/config_4kEd1c6OUE5zerUZYdefSCPs7QT4r9-zdqPiGH3_53bJ1WLgTegIP6KyD293Em-PiXjCaA21ow/sync';
 
 
-$config_directories['sync'] = '../sync';
+//$config_directories['sync'] = '../sync';
+$config_directories['sync'] = 'sync';
+
