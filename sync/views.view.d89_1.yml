@@ -1,4 +1,4 @@
-uuid: 20e2a37f-1cc2-425d-8a8f-cfed3abd6f36
+uuid: fd07961a-2a64-457f-85a8-9e841a78eecb
 langcode: en
 status: true
 dependencies:
@@ -7,8 +7,8 @@ dependencies:
   module:
     - node
     - user
-id: new_view_1
-label: 'new view 1'
+id: d89_1
+label: 'd89 1'
 module: views
 description: ''
 tag: ''
@@ -147,13 +147,12 @@ display:
           expose:
             label: ''
           granularity: second
-      title: 'new view 1'
+      title: 'd89 1'
       header: {  }
       footer: {  }
       empty: {  }
       relationships: {  }
       arguments: {  }
-      display_extenders: {  }
     cache_metadata:
       max-age: -1
       contexts:
@@ -170,7 +169,7 @@ display:
     position: 1
     display_options:
       display_extenders: {  }
-      path: new-view-1
+      path: d89-1
     cache_metadata:
       max-age: -1
       contexts:
