@@ -18,8 +18,7 @@ sites/default/files/js
 sites/default/files/php/twig/.
 sites/default/files/php/twig/*
 sites/default/files/php/twig
-sites/*/settings*.php
-sites/default/files/settings.php
+sites/default/settings.php
 
 # Core's dependencies are managed with Composer.
 #vendor
