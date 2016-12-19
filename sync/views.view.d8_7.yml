@@ -1,4 +1,4 @@
-uuid: 5f09b649-0130-46de-8304-e70c8cf97345
+uuid: 48c2cdcb-11ac-4cc1-ab11-1b9dfca9084c
 langcode: en
 status: true
 dependencies:
@@ -7,8 +7,8 @@ dependencies:
   module:
     - node
     - user
-id: d89_4
-label: 'd89 4'
+id: d8_7
+label: 'd8 7'
 module: views
 description: ''
 tag: ''
@@ -147,12 +147,13 @@ display:
           expose:
             label: ''
           granularity: second
-      title: 'd89 4'
+      title: 'd8 7'
       header: {  }
       footer: {  }
       empty: {  }
       relationships: {  }
       arguments: {  }
+      display_extenders: {  }
     cache_metadata:
       max-age: -1
       contexts:
@@ -169,7 +170,7 @@ display:
     position: 1
     display_options:
       display_extenders: {  }
-      path: d89-4
+      path: d8-7
     cache_metadata:
       max-age: -1
       contexts:
