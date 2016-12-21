@@ -1,0 +1,26 @@
+uuid: 8c135a9e-f88a-414f-8c58-048c8f101c17
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.cars.body
+    - node.type.cars
+  module:
+    - text
+    - user
+id: node.cars.teaser
+targetEntityType: node
+bundle: cars
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+  links:
+    weight: 100
+hidden: {  }

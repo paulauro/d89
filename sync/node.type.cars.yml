@@ -1,0 +1,18 @@
+uuid: 3f2d803a-b874-4daf-822a-7df5f408c560
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: cars
+type: cars
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
