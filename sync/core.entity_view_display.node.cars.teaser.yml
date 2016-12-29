@@ -23,4 +23,6 @@ content:
     third_party_settings: {  }
   links:
     weight: 100
-hidden: {  }
+hidden:
+  field_textbox1: true
+  field_textbox2: true
