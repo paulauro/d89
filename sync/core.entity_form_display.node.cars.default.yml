@@ -29,14 +29,14 @@ content:
     settings: {  }
     third_party_settings: {  }
   field_textbox1:
-    weight: 0
+    weight: 1
     settings:
       size: 60
       placeholder: ''
     third_party_settings: {  }
     type: string_textfield
   field_textbox2:
-    weight: 2
+    weight: 3
     settings:
       rows: 5
       placeholder: ''
@@ -61,14 +61,14 @@ content:
     third_party_settings: {  }
   title:
     type: string_textfield
-    weight: 1
+    weight: 0
     settings:
       size: 60
       placeholder: ''
     third_party_settings: {  }
   uid:
     type: entity_reference_autocomplete
-    weight: 0
+    weight: 2
     settings:
       match_operator: CONTAINS
       size: 60
